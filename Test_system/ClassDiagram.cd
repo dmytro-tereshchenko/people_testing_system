@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="User">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADEJASAAACQgAAghAACCAAAAAEIEhAACAQAQwgCEFgA=</HashCode>
+      <FileName>Test_system_source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Category">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAgAAAIAAACAAAAAQAAAAAIAAgAAAAACAA=</HashCode>
+      <FileName>Test_system_source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Test::Question">
+        <TypeIdentifier>
+          <NewMemberFileName>Test_system_source.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIAAAAIAAAAAIAAAEAACgAABAAQCgAAAAAAACAAAAAA=</HashCode>
+      <FileName>Test_system_source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassedTest">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECIAAEAAAAQAgAAAAAAAEEgCAEBAAIAAAQAQAACEUAA=</HashCode>
+      <FileName>Test_system_source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestUser">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Test_system_source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Admin">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIASAAACQgAAABgAACAQACAEAAgAAAAAAAwAAAAgI=</HashCode>
+      <FileName>Test_system_source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encryptor">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAgAAAYAAAgA=</HashCode>
+      <FileName>Test_system_source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgABCAAAAQDAFEAAAAACAAAAAAgIAAAAAAAAgAAAgAA=</HashCode>
+      <FileName>Test_system_source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainProgram">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAYJBQEFAAgAMQEIBAAABEAgAAhAgsAmIEMIAAAAAAI=</HashCode>
+      <FileName>Test_system_source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
